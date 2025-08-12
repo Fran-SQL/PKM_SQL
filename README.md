@@ -34,7 +34,6 @@ A continuación describo brevemente las ficheros csv que usaremos:
 | type_names.csv | 210 | Nombres de los tipos en diferentes idiomas. Nos permitirá buscar el nombre del tipo en español. |
 | types.csv | 21 | Nombre de todos los tipos que hay. |
 
-
 ## Diagrama de relaciones (simplificado)
 En el siguiente diagrama se muestran las relaciones de las tablas. Para facilitar la comprensión se omiten las columnas que no se llegan a emplear.
 
