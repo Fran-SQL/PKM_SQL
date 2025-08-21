@@ -1,4 +1,4 @@
-# SQL_Competitive_Pokemon
+# Pokemon-Database-Explorer
 Consultas SQL para analizar datos de Pokémon usando un esquema relacional. Incluye combinaciones de tablas con JOIN, subconsultas, filtros avanzados y agregaciones para obtener respuesta a diferentes preguntas.
 
 ## Introducción
