@@ -37,4 +37,5 @@ A continuación describo brevemente las ficheros csv que usaremos:
 ## Diagrama de relaciones (simplificado)
 En el siguiente diagrama se muestran las relaciones de las tablas. Para facilitar la comprensión se omiten las columnas que no se llegan a emplear.
 
-![Diagrama_relaciones_pkm_v3](https://github.com/user-attachments/assets/d52df2f6-3c24-43da-a447-38d28c7822ba)
+![Diagrama_relaciones_pkm_v3](<img width="1810" height="1156" alt="image" src="https://github.com/user-attachments/assets/9c6bdd80-c1c8-446f-bfb5-f3c1160987b1" />
+)
