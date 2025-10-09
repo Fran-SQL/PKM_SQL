@@ -13,6 +13,9 @@ Encontrar respuesta a este tipo de preguntas puede convertirse en un proceso lar
 Hay varias bases de datos públicas, pero hay una que me sorprendió bastante por lo completa que está. Es la que he utilizado para el proyecto, no he llegado a utilizar todos sus archivos CSV, solo los necesarios para las consultas que realicé. 
 Fuente de los datos: https://github.com/PokeAPI/pokeapi/tree/master/data/v2/csv. 
 
+Los datos utilizados provienen de PokéAPI (https://github.com/PokeAPI/pokeapi).  
+No se incluyen los CSV en este repositorio; todos los derechos pertenecen a los autores originales.
+
 Incluye información de todas las generaciones hasta pokemon escarlata y púrpura.
 
 ## Descripción de los datos
